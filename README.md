@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @KlemenSkok
-- 👀 I’m interested in `coding.`
-- 🌱 I’m currently learning `coding.`
-- 💞️ I’m looking to collaborate on `coding.`
-- 📫 How to reach me ... `find me.`
+# WHOAMI
 
+Student at [Vegova Ljubljana](https://www.vegova.si)
 
 
 fr ong
